@@ -90,6 +90,8 @@ git add  .
 git commit -m 'initial commit'
 ```
 
+4.1 Create a new github repo by going to your github. Name of repo must be matching the name of the repo you chose above
+
 5. Push your files to GitHub
 ```
 git push origin master
